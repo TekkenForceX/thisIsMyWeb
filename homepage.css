@@ -1,0 +1,54 @@
+p {
+  font-family: 'Indie Flower', cursive;
+  background-color: darkorchid;
+  font-size: 24px;
+  font-style: monospace;
+    color:brown;
+    border-style: dotted dashed solid double;
+    border: 1px solid black;
+    padding-top: auto;
+    padding-right: auto;
+    padding-bottom: auto;
+    padding-left: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-right: auto;
+    margin-left: auto;
+    height: auto;
+    width: auto;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: red;
+}
+
+#thankyou {
+  font-size: large;
+}
+
+body  {
+  background-image: url("http://www.gstatic.com/tv/thumb/v22vodart/15060746/p15060746_v_v8_ab.jpg");
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: cover;
+
